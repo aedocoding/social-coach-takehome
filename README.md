@@ -1,6 +1,7 @@
 # Instructions
 
 - Run npm install in root directory
+- Ensure you have your twitter API keys and secrets set up or change the name of the sample.env => .env
 
 ```JavaScript
 ## What the response from the server should look like
